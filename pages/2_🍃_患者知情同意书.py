@@ -2,7 +2,6 @@ import streamlit as st
 
 st.markdown("""
 
-# 华北医疗健康集团邢台总医院
 # “预住院”患者知情同意书
 尊敬的患者及家属：
 
